@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FreshFruit.Controller.BucketController">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACAAAAAAAAAAAAAlAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controller\BucketController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreshFruit.Model.Bucket">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAJAAEAEIAIAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Bucket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreshFruit.Model.Fruit">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Model\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreshFruit.Model.Seller">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAFAAEAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Model\Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreshFruit.App" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreshFruit.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAGAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="FreshFruit.Model.BucketEvenListener">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\BucketEvenListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
