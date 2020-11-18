@@ -12,7 +12,7 @@ Aplikasi ini digunakan untuk menyesuaikan banyaknya jumlah buah dalam keranjang,
 2. Class Diagram
 ![Class Diagram1](../ClassDiagram1.png)
 3. Alur Program
-Pada MainWindow.xaml.cs terdapat kode seperti dibawah untuk untuk menambahkan data ke ``BucketController``
+Pada ``MainWindow.xaml.cs`` terdapat kode seperti dibawah untuk untuk menambahkan data ke ``BucketController``
 
 
  
